@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container{
+    background-color: blue;
+    margin: auto;
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+}
+
+.entrada{
+margin-top: 20px;
+position: relative;
+left: 100px
+
+}
